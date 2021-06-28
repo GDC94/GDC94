@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/70720945/123641556-c14f6800-d7f8-11eb-87b7-93605d1ca976.png)
-![image](https://user-images.githubusercontent.com/70720945/123641632-d62bfb80-d7f8-11eb-8162-b282ea7058ca.png)
-
-![image](https://user-images.githubusercontent.com/70720945/123641686-e348ea80-d7f8-11eb-91b5-9fa9bf0a975d.png)
-![image](https://user-images.githubusercontent.com/70720945/123641779-02477c80-d7f9-11eb-9a4c-a4a605f360dd.png)
-![image](https://user-images.githubusercontent.com/70720945/123641844-125f5c00-d7f9-11eb-9e2c-f90254e9ae0c.png)
-
+![image](https://user-images.githubusercontent.com/70720945/123642428-a92c1880-d7f9-11eb-8d29-1bb99e8e116b.png)
+![image](https://user-images.githubusercontent.com/70720945/123642443-adf0cc80-d7f9-11eb-946e-ad77a686113a.png)
+![image](https://user-images.githubusercontent.com/70720945/123642478-b77a3480-d7f9-11eb-9b60-aadc45d0befa.png)
+![image](https://user-images.githubusercontent.com/70720945/123642502-c06b0600-d7f9-11eb-8e01-aa5de7bf21e3.png)
