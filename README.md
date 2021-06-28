@@ -1,10 +1,12 @@
 
 
-Hola 👋  ! Mi nombre es German y soy un desarrollador front end curioso y apasionado por el diseño. Siempre en modo ![icons8-beta-50](https://user-images.githubusercontent.com/70720945/123644540-d7125c80-d7fb-11eb-9572-1be1808c60ab.png)
-Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡
+![icons8-saludo-10](https://user-images.githubusercontent.com/70720945/123649110-e5627780-d7ff-11eb-96ba-de884ff46cc1.png)
+ Hola 👋  ! Mi nombre es German y soy un desarrollador front end curioso y apasionado por el diseño. Siempre en modo ![icons8-beta-50](https://user-images.githubusercontent.com/70720945/123644540-d7125c80-d7fb-11eb-9572-1be1808c60ab.png)
+Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡⚡
 
 ![icons8-apretón-de-manos](https://user-images.githubusercontent.com/70720945/123645103-66b80b00-d7fc-11eb-8da5-0a3f5303264b.gif)
 
+Recientemente he trabajado con estas tecnologías
 ![icons8-javascript-48](https://user-images.githubusercontent.com/70720945/123646661-ccf15d80-d7fd-11eb-845a-6851d61c1b5e.png)
 ![icons8-reaccionar-nativo-48](https://user-images.githubusercontent.com/70720945/123645918-21e0a400-d7fd-11eb-80b0-132ee61b56c3.png)
 ![icons8-redux-48](https://user-images.githubusercontent.com/70720945/123646334-7e43c380-d7fd-11eb-89cd-8ce48863ad09.png)
@@ -14,6 +16,7 @@ Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡
 ![icons8-figma-48](https://user-images.githubusercontent.com/70720945/123646979-13df5300-d7fe-11eb-8abd-e17fcc91657e.png)
 ![icons8-adobe-illustrator-48](https://user-images.githubusercontent.com/70720945/123647154-38d3c600-d7fe-11eb-9cc1-0a3c080cbcd0.png)
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/70720945/123647296-599c1b80-d7fe-11eb-9315-677bdc571055.png)
+No he puesto las que quiero aprender, ya que no entrarían ... 
 
 
 Hablemos !
