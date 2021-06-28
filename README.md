@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+Hola 👋  ! Mi nombre es German y soy un desarrollador front end curioso y apasionado por el diseño. Siempre en modo beta ![icons8-beta-50](https://user-images.githubusercontent.com/70720945/123644540-d7125c80-d7fb-11eb-9572-1be1808c60ab.png)
+Veo cada proyecto como una oportunidad para crecer y aprender algo nuevo! ⚡
+
+
+
 
 <!--
 **GDC94/GDC94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
