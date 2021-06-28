@@ -19,7 +19,7 @@ Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡
 Hablemos !
 💬 
 German Derbes Catoni en Linkedin
-o envíame un mail a 
+o por mail a 
 📫 germanderbescatoni@gmail.com
 
 
