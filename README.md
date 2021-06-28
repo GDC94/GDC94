@@ -13,7 +13,7 @@ Recientemente he trabajado con estas tecnologías
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70720945/123646790-e72b3b80-d7fd-11eb-88ab-631eb8029064.png)
 ![icons8-figma-48](https://user-images.githubusercontent.com/70720945/123646979-13df5300-d7fe-11eb-8abd-e17fcc91657e.png)
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/70720945/123647296-599c1b80-d7fe-11eb-9315-677bdc571055.png)
-No he puesto las que quiero aprender, porque no entrarían ... 
+No he puesto las que quiero aprender, porque no entrarían aquí ... 
 
 
 
