@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![uvas](https://user-images.githubusercontent.com/70720945/123641425-a1b83f80-d7f8-11eb-825c-5492955cbd91.png)
+![image](https://user-images.githubusercontent.com/70720945/123641556-c14f6800-d7f8-11eb-87b7-93605d1ca976.png)
+
 
