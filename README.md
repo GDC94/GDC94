@@ -1,20 +1,11 @@
 
 
-Hola 👋  ! Mi nombre es ![icons8-logo-de-google-48](https://user-images.githubusercontent.com/70720945/123645477-c1e9fd80-d7fc-11eb-92fc-09705a491492.png)
-erman y soy un desarrollador front end curioso y apasionado por el diseño. Siempre en modo ![icons8-beta-50](https://user-images.githubusercontent.com/70720945/123644540-d7125c80-d7fb-11eb-9572-1be1808c60ab.png)
+Hola 👋  ! Mi nombre es German y soy un desarrollador front end curioso y apasionado por el diseño. Siempre en modo ![icons8-beta-50](https://user-images.githubusercontent.com/70720945/123644540-d7125c80-d7fb-11eb-9572-1be1808c60ab.png)
 Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡
 
 ![icons8-apretón-de-manos](https://user-images.githubusercontent.com/70720945/123645103-66b80b00-d7fc-11eb-8da5-0a3f5303264b.gif)
 
-
-
-
-
-
-<!--
-**GDC94/GDC94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Recientemente he trabajado con tecnologias tales como 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,3 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![icons8-linkedin-48](https://user-images.githubusercontent.com/70720945/123643885-3e7bdc80-d7fb-11eb-8dad-30b30b8f0b52.png)
+![icons8-reaccionar-nativo-48](https://user-images.githubusercontent.com/70720945/123645918-21e0a400-d7fd-11eb-80b0-132ee61b56c3.png)
+![icons8-redux-48](https://user-images.githubusercontent.com/70720945/123646334-7e43c380-d7fd-11eb-89cd-8ce48863ad09.png)
+![icons8-html-5-48](https://user-images.githubusercontent.com/70720945/123646354-826fe100-d7fd-11eb-9f6b-517aa9254d20.png)
+![icons8-css3-48](https://user-images.githubusercontent.com/70720945/123646371-869bfe80-d7fd-11eb-886e-18873aad4a43.png)
