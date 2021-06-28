@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/70720945/123641779-02477c80-d7f9-11eb-9a4c-a4a605f360dd.png)
 ![image](https://user-images.githubusercontent.com/70720945/123641844-125f5c00-d7f9-11eb-9e2c-f90254e9ae0c.png)
 
-
-![image](https://user-images.githubusercontent.com/70720945/123642113-4fc3e980-d7f9-11eb-8a60-17d1cf92d98d.png)
