@@ -2,7 +2,9 @@
 
 Hola 👋  ! Mi nombre es German y soy un desarrollador front end curioso y apasionado por el diseño. Siempre en modo ![icons8-beta-50](https://user-images.githubusercontent.com/70720945/123644540-d7125c80-d7fb-11eb-9572-1be1808c60ab.png)
 Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡
-[icons8-apretón-de-manos](https://user-images.githubusercontent.com/70720945/123644919-3b352080-d7fc-11eb-8a5c-20d60835a473.gif)
+
+![icons8-apretón-de-manos](https://user-images.githubusercontent.com/70720945/123645103-66b80b00-d7fc-11eb-8da5-0a3f5303264b.gif)
+
 
 
 
