@@ -1,5 +1,6 @@
 Hola 👋  ! Mi nombre es German y soy un desarrollador front end curioso y apasionado por el diseño. Siempre en modo ![icons8-beta-25](https://user-images.githubusercontent.com/70720945/123649492-2bb7d680-d800-11eb-853c-9f57ad5f26e2.png)
 Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡⚡
+
 ![icons8-apretón-de-manos](https://user-images.githubusercontent.com/70720945/123645103-66b80b00-d7fc-11eb-8da5-0a3f5303264b.gif)
 
 Recientemente he trabajado con estas tecnologías
@@ -12,16 +13,14 @@ Recientemente he trabajado con estas tecnologías
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70720945/123646790-e72b3b80-d7fd-11eb-88ab-631eb8029064.png)
 ![icons8-figma-48](https://user-images.githubusercontent.com/70720945/123646979-13df5300-d7fe-11eb-8abd-e17fcc91657e.png)
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/70720945/123647296-599c1b80-d7fe-11eb-9315-677bdc571055.png)
-No he puesto las que quiero aprender, ya que no entrarían ... 
+No he puesto las que quiero aprender, porque no entrarían ... 
 
 
 
 
 Hablemos !
 ![icons8-linkedin-18](https://user-images.githubusercontent.com/70720945/123649964-8cdfaa00-d800-11eb-9bc8-aab594f15b59.png)
-German Derbes Catoni en Linkedin
-o por mail a 
-📫 germanderbescatoni@gmail.com
+German Derbes Catoni  📫  germanderbescatoni@gmail.com
 
 
 
