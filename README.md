@@ -15,6 +15,8 @@ Recientemente he trabajado con estas tecnologías
 No he puesto las que quiero aprender, ya que no entrarían ... 
 
 
+
+
 Hablemos !
 ![icons8-linkedin-18](https://user-images.githubusercontent.com/70720945/123649964-8cdfaa00-d800-11eb-9bc8-aab594f15b59.png)
 German Derbes Catoni en Linkedin
