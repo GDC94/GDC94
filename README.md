@@ -11,13 +11,12 @@ Recientemente he trabajado con estas tecnologías
 ![icons8-css3-48](https://user-images.githubusercontent.com/70720945/123646371-869bfe80-d7fd-11eb-886e-18873aad4a43.png)
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70720945/123646790-e72b3b80-d7fd-11eb-88ab-631eb8029064.png)
 ![icons8-figma-48](https://user-images.githubusercontent.com/70720945/123646979-13df5300-d7fe-11eb-8abd-e17fcc91657e.png)
-![icons8-adobe-illustrator-48](https://user-images.githubusercontent.com/70720945/123647154-38d3c600-d7fe-11eb-9cc1-0a3c080cbcd0.png)
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/70720945/123647296-599c1b80-d7fe-11eb-9315-677bdc571055.png)
 No he puesto las que quiero aprender, ya que no entrarían ... 
 
 
 Hablemos !
-💬 
+![icons8-linkedin-18](https://user-images.githubusercontent.com/70720945/123649964-8cdfaa00-d800-11eb-9bc8-aab594f15b59.png)
 German Derbes Catoni en Linkedin
 o por mail a 
 📫 germanderbescatoni@gmail.com
