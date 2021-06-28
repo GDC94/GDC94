@@ -20,7 +20,8 @@ No he puesto las que quiero aprender, porque no entrarían ...
 
 Hablemos !
 ![icons8-linkedin-18](https://user-images.githubusercontent.com/70720945/123649964-8cdfaa00-d800-11eb-9bc8-aab594f15b59.png)
-German Derbes Catoni  📫  germanderbescatoni@gmail.com
+German Derbes Catoni ![icons8-gmail-18](https://user-images.githubusercontent.com/70720945/123650687-30c95580-d801-11eb-9614-1369ff560bea.png)
+  germanderbescatoni@gmail.com
 
 
 
