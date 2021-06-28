@@ -13,6 +13,10 @@ Veo cada proyecto como una oportunidad para crecer y conocer gente nueva ! ⚡
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70720945/123646790-e72b3b80-d7fd-11eb-88ab-631eb8029064.png)
 ![icons8-figma-48](https://user-images.githubusercontent.com/70720945/123646979-13df5300-d7fe-11eb-8abd-e17fcc91657e.png)
 ![icons8-adobe-illustrator-48](https://user-images.githubusercontent.com/70720945/123647154-38d3c600-d7fe-11eb-9cc1-0a3c080cbcd0.png)
+![icons8-postgresql-48](https://user-images.githubusercontent.com/70720945/123647296-599c1b80-d7fe-11eb-9315-677bdc571055.png)
 
 
-![icons8-linkedin-48](https://user-images.githubusercontent.com/70720945/123643885-3e7bdc80-d7fb-11eb-8dad-30b30b8f0b52.png)
+
+![icons8-linkedin-30](https://user-images.githubusercontent.com/70720945/123647414-6f114580-d7fe-11eb-85d4-493813cf1ff8.png) German Derbes Catoni
+![icons8-gmail-30](https://user-images.githubusercontent.com/70720945/123647603-9b2cc680-d7fe-11eb-80a1-0fcbde8f2b1b.png) germanderbescatoni@gmail.com
+
