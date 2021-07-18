@@ -12,12 +12,12 @@ Recientemente he trabajado con las siguientes tecnologías
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/70720945/123647296-599c1b80-d7fe-11eb-9315-677bdc571055.png)
 ![icons8-git-48](https://user-images.githubusercontent.com/70720945/123652188-75a1bc00-d802-11eb-980b-9d0adda21107.png)
 
-No he puesto las que quiero aprender, porque no entrarían aquí ... 
-
 Hablemos !
 ![icons8-linkedin-18](https://user-images.githubusercontent.com/70720945/123649964-8cdfaa00-d800-11eb-9bc8-aab594f15b59.png)
-German Derbes Catoni     ![icons8-gmail-18](https://user-images.githubusercontent.com/70720945/123650687-30c95580-d801-11eb-9614-1369ff560bea.png)
- germanderbescatoni@gmail.com
+German Derbes Catoni     
+
+![icons8-gmail-18](https://user-images.githubusercontent.com/70720945/123650687-30c95580-d801-11eb-9614-1369ff560bea.png)
+germanderbescatoni@gmail.com
 
 
 
