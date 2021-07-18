@@ -19,6 +19,6 @@ Hablemos !
 German Derbes Catoni     ![icons8-gmail-18](https://user-images.githubusercontent.com/70720945/123650687-30c95580-d801-11eb-9614-1369ff560bea.png)
  germanderbescatoni@gmail.com
 
-![icons8-apretón-de-manos](https://user-images.githubusercontent.com/70720945/123645103-66b80b00-d7fc-11eb-8da5-0a3f5303264b.gif)
+https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif
 
 
