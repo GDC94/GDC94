@@ -12,7 +12,7 @@ Estas son algunas de las tecnologías con las cuales he trabajado recientemente
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/70720945/123647296-599c1b80-d7fe-11eb-9315-677bdc571055.png)
 ![icons8-git-48](https://user-images.githubusercontent.com/70720945/123652188-75a1bc00-d802-11eb-980b-9d0adda21107.png)
 
-Hablemos 🔊! germanderbescatoni@gmail.com o encontrame en Linkedin 👉 German Derbes Catoni
+Hablemos 🔊! germanderbescatoni@gmail.com o encontrame en Linkedin 👉https://www.linkedin.com/in/german-derbes-catoni/
 
 
 
