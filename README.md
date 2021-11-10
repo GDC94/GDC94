@@ -1,4 +1,4 @@
-Hola 👋  ! Mi nombre es German y soy un desarrollador front end apasionado por el diseño. Veo cada proyecto como una oportunidad para crecer, aprender y conocer gente nueva ! ⚡⚡
+Hola 👋  ! Mi nombre es German y soy un desarrollador front end **designer** apasionado por el diseño. ⚡⚡
 
 Estas son algunas de las tecnologías con las cuales he trabajado recientemente
 
