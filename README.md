@@ -3,7 +3,7 @@
 <h3>👨🏻‍💻 Front end Dev 🎨</h3>
 
 [![Linkedin: German Derbes Catoni](https://img.shields.io/badge/-GermanDerbesCatoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/german-derbes-catoni/)](https://www.linkedin.com/in/german-derbes-catoni/)
-[![GitHub German](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/GDC94)
+[![GitHub German](https://img.shields.io/github/followers/GDC94?label=follow&style=social)](https://github.com/GDC94)
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
