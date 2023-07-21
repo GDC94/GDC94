@@ -26,14 +26,19 @@
 ### A little more about me...  
 
 ```javascript
-const German = {
-  code: [Javascript, Typescript, HTML, CSS, Solidity],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, React Testing library, MobX],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : [Javascript, Typescript, HTML, CSS, Solidity],
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "Mongo" },
+    "Editors" : { "Vscode", "Xcode", "Sublime"},
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop","Blender" }
+  };
 }
+
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 
