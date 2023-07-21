@@ -2,7 +2,7 @@
 <h2> Hi, I'm German!</h2>
 <p><em>👨🏻‍💻 Software Front end Enginner 🎨</em></p>
 
-[![Linkedin: German Derbes Catoni](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/german-derbes-catoni/)](https://www.linkedin.com/in/german-derbes-catoni/)
+[![Linkedin: German Derbes Catoni](https://img.shields.io/badge/-GermanDerbesCatoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/german-derbes-catoni/)](https://www.linkedin.com/in/german-derbes-catoni/)
 [![GitHub German](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/GDC94)
 
 
