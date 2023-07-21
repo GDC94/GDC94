@@ -1,4 +1,3 @@
-<img width="1180" alt="Captura de Pantalla 2021-12-02 a la(s) 15 08 42" src="https://user-images.githubusercontent.com/70720945/144478913-3c6d579b-9ee3-4b1f-a4d3-56051287b4a8.png">
 
 
 <h1 align='center'>
@@ -9,4 +8,14 @@
   🌱 I’m a Full stack developer with a degree in Information Technology. 
   </br>
   👨‍💻  I am passionate about Web Dev & I enjoy learning new things.
+</p>
+
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/german-derbes-catoni/">
+    <img src="https://img.shields.io/badge/linkedin-%2338b5a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:germanderbescatoni@gmail.com">
+    <img src="https://img.shields.io/badge/mail-%2338b5a8.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
