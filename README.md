@@ -8,6 +8,9 @@ Clean code, motion and good taste. That’s the stack. </p>
 <h5>Some of my recent work</h5>
 
 <ul>
+      <li>
+    <a href="https://bsmnt-2026.vercel.app/">Basecamp</a>
+  </li>
    <li>
     <a href="https://www.puntoaragencia.com/">PuntoAr</a>
   </li>
@@ -17,9 +20,7 @@ Clean code, motion and good taste. That’s the stack. </p>
    <li>
     <a href="https://dead-lock-olive.vercel.app/">DeadLock</a>
   </li>
-    <li>
-    <a href="https://bsmnt-2026.vercel.app/">(In progress) Basecamp</a>
-  </li>
+ 
 </ul>
 
 
